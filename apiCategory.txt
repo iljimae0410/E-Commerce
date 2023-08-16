@@ -1,0 +1,59 @@
+[
+	{
+		"id": 26,
+		"categoryName": "Electronics",
+		"description": "cat789",
+		"imageUrl": "https://img.freepik.com/free-photo/blue-mountains-famous-tourism-scenery-lijiang_1417-1143.
+		jpg?size=626&ext=jpg&ga=GA1.1.1398667072.1690865799&semt=sph"
+		"products": [
+			{
+				"id": 55,
+				"name": "Lenovo Ideapad M100 RGB Gaming Wired Optical Gaming Mouse",
+				"imageUrl": "https://p1-ofp.static.pub/medias/bWFzdGVyfHJvb3R8ODYyMTd8aW1hZ2UvcG5nfGg3My9oYmYvMTE
+				xMTA1MzEwMzkyNjIucG5nfDI3MzEyM2Y4OGQ4MDFiNzFmYmEzZjM2MjQ0OTg4NDA0M2M4MmZkN2JjYTg5MWM1NzQ3NGYyMmQ3M
+				zAwNjRlMDM/GY50Z71902-01-500x400.png",
+				"price": 5555.0,
+				"description": "Charge into battle with a high-performance dynamic gaming mouse by your side. 
+				The M100 RGB Gaming Mouse prepares you for victory with 7 programmable"
+			}
+		]
+	},
+	{
+		"id": 3,
+		"categoryName": "Electronics",
+		"description": "cat789",
+		"imageUrl": "https://img.freepik.com/free-photo/blue-mountains-famous-tourism-scenery-lijiang_1417-1143.
+		jpg?size=626&ext=jpg&ga=GA1.1.1398667072.1690865799&semt=sph"
+		"products": [
+			{
+				"id": 9,
+				"name": "Lenovo Ideapad M100 RGB Gaming Wired Optical Gaming Mouse",
+				"imageUrl": "https://p1-ofp.static.pub/medias/bWFzdGVyfHJvb3R8ODYyMTd8aW1hZ2UvcG5nfGg3My9oYmYvMTE
+				xMTA1MzEwMzkyNjIucG5nfDI3MzEyM2Y4OGQ4MDFiNzFmYmEzZjM2MjQ0OTg4NDA0M2M4MmZkN2JjYTg5MWM1NzQ3NGYyMmQ3M
+				zAwNjRlMDM/GY50Z71902-01-500x400.png",
+				"price": 5555.0,
+				"description": "Charge into battle with a high-performance dynamic gaming mouse by your side. 
+				The M100 RGB Gaming Mouse prepares you for victory with 7 programmable"
+			}
+		]
+	},
+	{
+		"id": 15,
+		"categoryName": "Electronics",
+		"description": "cat789",
+		"imageUrl": "https://img.freepik.com/free-photo/blue-mountains-famous-tourism-scenery-lijiang_1417-1143.
+		jpg?size=626&ext=jpg&ga=GA1.1.1398667072.1690865799&semt=sph"
+		"products": [
+			{
+				"id": 8,
+				"name": "Lenovo Ideapad M100 RGB Gaming Wired Optical Gaming Mouse",
+				"imageUrl": "https://p1-ofp.static.pub/medias/bWFzdGVyfHJvb3R8ODYyMTd8aW1hZ2UvcG5nfGg3My9oYmYvMTE
+				xMTA1MzEwMzkyNjIucG5nfDI3MzEyM2Y4OGQ4MDFiNzFmYmEzZjM2MjQ0OTg4NDA0M2M4MmZkN2JjYTg5MWM1NzQ3NGYyMmQ3M
+				zAwNjRlMDM/GY50Z71902-01-500x400.png",
+				"price": 5555.0,
+				"description": "Charge into battle with a high-performance dynamic gaming mouse by your side. 
+				The M100 RGB Gaming Mouse prepares you for victory with 7 programmable"
+			}
+		]
+	},
+]
