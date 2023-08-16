@@ -1,0 +1,395 @@
+[
+  {
+    "id": 42,
+    "categoryName": "Handphone",
+    "description": "احبائي في الله",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJ0Z8vP1CgXSYAA5vWC9SSL-PdKKsyu02dieKu3kLqDnH_Wb99uK0JecgjnMAPTCDIb5M&usqp=CAU",
+    "products": [
+      {
+        "id": 13,
+        "name": "Samsung Galaxy A73 5G 128GB",
+        "imageURL": "https://cdn.tgdd.vn/Products/Images/42/246195/samsung-galaxy-a73-5g-xanh-thumb-600x600.jpg",
+        "price": 5000000,
+        "description": "Samsung Galaxy memiliki desain yang elegan dan modern. Beberapa model memiliki bodi dengan bingkai logam atau kaca di bagian depan dan belakang. "
+      },
+      {
+        "id": 310,
+        "name": "Products",
+        "imageURL": "Products",
+        "price": 6,
+        "description": "Products"
+      },
+      {
+        "id": 308,
+        "name": "AddProduct",
+        "imageURL": "AddProduct",
+        "price": 5,
+        "description": "AddProduct"
+      },
+      {
+        "id": 276,
+        "name": "пцпцп",
+        "imageURL": "https://d1b7fmvx5bzyfc.cloudfront.net/catalog/product/cache/f422e4b7637dbd183123c9c34bbb4ec6/a/v/avs112_000_gra_000.jpg",
+        "price": 13333,
+        "description": "пцпцфп"
+      },
+      {
+        "id": 95,
+        "name": " Samsung Galaxy S20 FE",
+        "imageURL": "https://cdn.tgdd.vn/Products/Images/42/224859/samsung-galaxy-s20-fan-edition-xanh-la-thumbnew-600x600.jpeg",
+        "price": 120,
+        "description": "Samsung Galaxy S20 memiliki desain yang elegan dan modern dengan bodi yang ramping dan bingkai logam."
+      },
+      {
+        "id": 274,
+        "name": "huy",
+        "imageURL": "sdfdfff",
+        "price": 10,
+        "description": "32432"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "categoryName": "Mouse",
+    "description": "Permet de scroller",
+    "imageUrl": "https://down-id.img.susercontent.com/file/b9913a6b03bab105196ef13f57efad8d",
+    "products": [
+      {
+        "id": 324,
+        "name": "MX MASTER 3S FOR MAC",
+        "imageURL": null,
+        "price": 3000,
+        "description": "Meet MX Master 3S for Mac – an iconic mouse remastered."
+      },
+      {
+        "id": 323,
+        "name": "MX MASTER 3S FOR MAC",
+        "imageURL": null,
+        "price": 300,
+        "description": "Meet MX Master 3S for Mac – an iconic mouse remastered."
+      },
+      {
+        "id": 291,
+        "name": "Mouse",
+        "imageURL": "",
+        "price": 6789,
+        "description": "Good quality"
+      },
+      {
+        "id": 42,
+        "name": "G502 X LIGHTSPEED WIRELESS GAMING MOUSE",
+        "imageURL": "https://down-id.img.susercontent.com/file/f7fbe5b64f739c133d2992dd1cc9f6f9",
+        "price": 21,
+        "description": "Logitech menawarkan mouse unggulan dengan berbagai spesifikasi utama yang mencakup profil onboard memory hingga 5 profil, dengan opsi untuk menambahkan profil menggunakan Software Logitech G HUB yang dapat diunduh dari logitechg.com/ghub."
+      },
+      {
+        "id": 320,
+        "name": "computer mouse",
+        "imageURL": null,
+        "price": 30,
+        "description": "some desc"
+      },
+      {
+        "id": 290,
+        "name": "Zebronics mouse ",
+        "imageURL": "https://m.media-amazon.com/images/I/410KqOI+IeL.jpg",
+        "price": 7890,
+        "description": "long lasting and durable"
+      },
+      {
+        "id": 293,
+        "name": "Good quality mouse",
+        "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJDUWfznnzWtMntUT1HB3SBzvHMIRw33Ps3g&usqp=CAU",
+        "price": 5677,
+        "description": "jhsjdfhfjshdj fsjdhfsjdjhfjkshughdfgjsd"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "categoryName": "Speaker test",
+    "description": " أستغفرو الله ياشباب وياشابات😁",
+    "imageUrl": "https://id.harmankardon.com/dw/image/v2/AAUJ_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw15f844bc/HK_ONYX_STUDIO_5_LAVA_BLACK_HERO_008_x2-1605x1605px.jpg?sw=556&sh=680&sm=fit&sfrm=png",
+    "products": [
+      {
+        "id": 304,
+        "name": "test speaker",
+        "imageURL": "https://us.soundcore.com/cdn/shop/articles/20220818-210015_2ddbe14d-e2c9-4a79-8d34-1046bd45479b_1600x.jpg?v=1663815360",
+        "price": 50,
+        "description": "best product of earbuds "
+      },
+      {
+        "id": 307,
+        "name": "anything",
+        "imageURL": "anything",
+        "price": 122,
+        "description": "anything"
+      },
+      {
+        "id": 306,
+        "name": "anything",
+        "imageURL": "anything",
+        "price": 122,
+        "description": "anything"
+      },
+      {
+        "id": 283,
+        "name": "Stone 1200",
+        "imageURL": "https://www.boat-lifestyle.com/cdn/shop/products/e57bbbe7-5e99-4c43-8cf8-0ddd42caf3d3_600x.png?v=1633518105",
+        "price": 3999,
+        "description": null
+      },
+      {
+        "id": 286,
+        "name": "dsdsasdsds",
+        "imageURL": "da",
+        "price": 11,
+        "description": "da"
+      },
+      {
+        "id": 36,
+        "name": "Logitech G213 test",
+        "imageURL": "https://resource.logitechg.com/w_1600,c_limit,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/gaming/en/non-braid/g213-finch/g213-gallery-1-nb.png?v=1",
+        "price": 728,
+        "description": "Keyboard ini menawarkan performa yang tahan lama dan cocok untuk gaming. Keyswitch Tactile Mech-Dome yang digunakan pada keyboard ini dirancang untuk tahan terhadap tumpahan cairan, sehingga memberikan keamanan tambahan saat digunakan."
+      },
+      {
+        "id": 311,
+        "name": "Products",
+        "imageURL": "Products",
+        "price": 4,
+        "description": "Products"
+      },
+      {
+        "id": 303,
+        "name": "test Speaker",
+        "imageURL": null,
+        "price": 345,
+        "description": "Speaker adalah perangkat audio elektroakustik yang berfungsi untuk mengubah sinyal listrik menjadi suara yang dapat didengar"
+      },
+      {
+        "id": 285,
+        "name": "Indiamart",
+        "imageURL": "sdjkfhsdfjsdhjkfhsdjgdfjghdjfhfkkfjsoj",
+        "price": 3458,
+        "description": "It is an India Mart Compant"
+      },
+      {
+        "id": 287,
+        "name": "12345",
+        "imageURL": "12345",
+        "price": 12,
+        "description": "12345"
+      },
+      {
+        "id": 322,
+        "name": "string78977",
+        "imageURL": "https://resource.logitechg.com/w_1600,c_limit,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/gaming/en/non-braid/g213-finch/g213-gallery-1-nb.png?v=1",
+        "price": 7978446,
+        "description": "wqddasadaewwrwer"
+      },
+      {
+        "id": 294,
+        "name": "j,hsjkdah jkhsdajsauy7ieycjhx",
+        "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJDUWfznnzWtMntUT1HB3SBzvHMIRw33Ps3g&usqp=CAU",
+        "price": 657645456,
+        "description": "djhgfjsdhf afjksfbs nb sdjfb sjkajsbajkfbsdm fsjkdh"
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "categoryName": "Earphone / TWS",
+    "description": "Headset tanpa kabel ini menawarkan kemudahan mobilitas bagi setiap penggunanya karena ruang gerak yang tidak terbatas, berbeda dengan headset kabel biasa.",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0411/4717/0966/products/U12t-Back_1296x.jpg?v=1670885602",
+    "products": [
+      {
+        "id": 38,
+        "name": "THINKPLUS LENOVO GM2 PRO BLUETOOTH EARPHONE GAMING HEADPHONE TWS",
+        "imageURL": "https://images.tokopedia.net/img/cache/500-square/VqbcmM/2023/3/30/0362b2d2-be0b-434a-b63a-d1a3e2569aa1.jpg.webp?ect=4g",
+        "price": 131,
+        "description": ""
+      },
+      {
+        "id": 284,
+        "name": "vsdkfjskfjskdsdfsd",
+        "imageURL": "sdkfskdfms,mf",
+        "price": 333,
+        "description": "skdjfskdfsmdf"
+      },
+      {
+        "id": 40,
+        "name": "Logitech G435 Headset Gaming Lightspeed",
+        "imageURL": "https://resource.logitechg.com/w_1024,h_1366,c_limit,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/gaming/en/products/g435/g435-gaming-headset-feature-2-white.png?v=1",
+        "price": 1999000,
+        "description": "Headset Gaming G435 memungkinkan Anda menikmati pengalaman gaming yang tak berujung.                   Dengan koneksi nirkabel melalui LIGHTSPEED kelas game dan Bluetooth®, headset ini menyajikan suara kuat dan bersih"
+      },
+      {
+        "id": 289,
+        "name": "Intel",
+        "imageURL": "jhfjkashdfjshdjkfshdjkfjkfghdfuijkhseuiryeuigjjghdjkcfnzm,xbvzn",
+        "price": 678,
+        "description": "Long lasting, durable, reliable"
+      },
+      {
+        "id": 191,
+        "name": "Baseus WM01 / Encok WM-01 TWS True Wireless Earbuds Bluetooth Earphone",
+        "imageURL": "https://images.tokopedia.net/img/cache/700/VqbcmM/2021/11/17/2e0a6506-8a52-4e01-a484-98709bc438f3.jpg.webp?ect=4g",
+        "price": 175,
+        "description": ""
+      },
+      {
+        "id": 97,
+        "name": "64 Audio U12t",
+        "imageURL": "https://cdn.shopify.com/s/files/1/0411/4717/0966/products/U12t-PLP-Update-FEB-22_1296x.jpg?v=1645211453",
+        "price": 2974000,
+        "description": "Headphone ini memberikan rentang frekuensi yang luas dari 10 Hz hingga 20 kHz. Impedansinya adalah 12 ohm pada 1 kHz, dan sensitivitas mencapai 108 dB/mW pada 1 kHz."
+      },
+      {
+        "id": 313,
+        "name": "afdsadf",
+        "imageURL": "",
+        "price": 80,
+        "description": "afsdaf"
+      },
+      {
+        "id": 192,
+        "name": "dbE TWS10 V2 High Fidelity TWS Bluetooth Earphone ENC Microphone",
+        "imageURL": "https://images.tokopedia.net/img/cache/700/VqbcmM/2022/9/24/3eedeb8a-edab-46d9-b195-5b814e5f0ecf.jpg.webp?ect=4g",
+        "price": 249,
+        "description": ""
+      },
+      {
+        "id": 295,
+        "name": "Apple AirPods Pro with MagSafe Charging Case",
+        "imageURL": "https://i5.walmartimages.com/asr/8a7c8af8-9ddb-4282-91a8-31a0363731e9.1b3d047c76449f2d7750abfd771c9b37.jpeg",
+        "price": 7500,
+        "description": null
+      },
+      {
+        "id": 94,
+        "name": "THINKPLUS LENOVO LP1 PRO TRUE WIRELESS",
+        "imageURL": "https://images.tokopedia.net/img/cache/500-square/VqbcmM/2022/5/11/93d798c1-d35b-462a-98df-0a85baae36a4.png.webp?ect=4g",
+        "price": 200,
+        "description": "Tws terbaik di kelasnya dengan spesifikasi yang memadai permainan anda"
+      },
+      {
+        "id": 49,
+        "name": "Nakamichi TW120NC True Wireless Earbuds Bluetooth Earphone TWS HD ANC",
+        "imageURL": "https://images.tokopedia.net/img/cache/700/VqbcmM/2023/6/8/258ab42f-7d0e-4cfa-a77e-c4d467bef1e0.jpg.webp?ect=4g",
+        "price": 309000,
+        "description": ""
+      },
+      {
+        "id": 309,
+        "name": "AddProduct",
+        "imageURL": "AddProduct",
+        "price": 8,
+        "description": "AddProduct"
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "categoryName": "Manette PS5",
+    "description": "DUALSHOCK Joystick USB",
+    "imageUrl": "https://th.bing.com/th/id/OIP.DQk3qza5nmUfzSeRG-fJ1wHaFJ?pid=ImgDet&rs=1",
+    "products": [
+      {
+        "id": 205,
+        "name": "Controller Gamepad Joystick for PS4 Playstation",
+        "imageURL": "https://m.media-amazon.com/images/I/71l9Y+rTGWL.jpg",
+        "price": 500000,
+        "description": "Controller Gamepad Joystick for PS4 Playstation"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "categoryName": "Headset",
+    "description": "UBL,Vodafone et autres...Permet de ressentir une expérience audio inouie",
+    "imageUrl": "https://resource.logitechg.com/w_1024,h_1366,c_limit,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/gaming/en/products/g435/g435-gaming-headset-feature-2-black.png?v=1",
+    "products": [
+      {
+        "id": 288,
+        "name": "new test ss",
+        "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVIQFSGTxf2a2sJKXgtZdJKMwRsz_aPLKSdiSUHFXApqQuLA71sRkyUCgVA4GIXZKoAnM&usqp=CAU",
+        "price": 2200,
+        "description": "new test new test new test new test new test new test new test new test new test new test new test "
+      },
+      {
+        "id": 275,
+        "name": "аайа",
+        "imageURL": "https://d1b7fmvx5bzyfc.cloudfront.net/catalog/product/cache/f422e4b7637dbd183123c9c34bbb4ec6/a/v/avs112_000_gra_000.jpg",
+        "price": 11222,
+        "description": "аайаа"
+      },
+      {
+        "id": 319,
+        "name": "new headset 1",
+        "imageURL": null,
+        "price": 20,
+        "description": "test product"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "categoryName": "Kursi Gaming ",
+    "description": "Kursi yang dirancang khusus untuk meningkatkan kenyamanan dan dukungan saat bermain game.",
+    "imageUrl": "https://progamingchair.com/wp-content/uploads/razer-enki-x-pro-test.jpg",
+    "products": []
+  },
+  {
+    "id": 43,
+    "categoryName": "Monitor",
+    "description": "Salah satu jenis soft-copy device, karena keluarannya adalah berupa sinyal elektronik, dalam hal ini berupa gambar yang tampil di layar monitor",
+    "imageUrl": "https://i.dell.com/sites/csimages/Video_Imagery/all/aw3423dw-video-thumb.jpg",
+    "products": [
+      {
+        "id": 292,
+        "name": "hghgd gfg",
+        "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJDUWfznnzWtMntUT1HB3SBzvHMIRw33Ps3g&usqp=CAU",
+        "price": 66,
+        "description": "ygffg yhgui hgjhj"
+      },
+      {
+        "id": 88,
+        "name": "Dell Alienware AW3423DW",
+        "imageURL": "https://i.rtings.com/assets/products/Mt9XEA4s/dell-alienware-aw3423dw/design-medium.jpg",
+        "price": 45000000,
+        "description": "Monitor gaming ultrawide yang tidak memiliki resolusi atau kecepatan refresh tertinggi dibandingkan monitor lain. Ini memiliki layar QD-OLED yang membuat warna hitam terlihat dalam dan pekat di ruangan gelap"
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "categoryName": "Mesin Cuci",
+    "description": "Mesin cuci adalah perangkat elektronik yang dirancang khusus untuk mencuci pakaian dan tekstil lainnya.",
+    "imageUrl": "https://www.lg.com/id/images/mesin-cuci/md06207716/gallery/FV1450S1B_1100_12.jpg",
+    "products": [
+      {
+        "id": 110,
+        "name": null,
+        "imageURL": null,
+        "price": 0,
+        "description": null
+      },
+      {
+        "id": 197,
+        "name": "aaa",
+        "imageURL": "dddddddddddd",
+        "price": 33,
+        "description": "addd"
+      },
+      {
+        "id": 91,
+        "name": "64 Audio U12t",
+        "imageURL": "https://cdn.shopify.com/s/files/1/0411/4717/0966/products/U12t-PLP-Update-FEB-22_1296x.jpg?v=1645211453",
+        "price": 29724000,
+        "description": "Headphone ini memberikan rentang frekuensi yang luas dari 10 Hz hingga 20 kHz. Impedansinya adalah 12 ohm pada 1 kHz, dan sensitivitas mencapai 108 dB/mW pada 1 kHz."
+      }
+    ]
+  }
+]
